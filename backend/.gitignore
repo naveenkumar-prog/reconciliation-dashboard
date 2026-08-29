@@ -1,0 +1,14 @@
+node_modules
+dist
+.env
+
+coverage
+.prisma
+
+*.log
+
+.agents
+.cursor
+.vscode
+.claude
+.windsurf
