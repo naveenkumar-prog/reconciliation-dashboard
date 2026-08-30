@@ -511,7 +511,6 @@ Given more time, I would add:
 - Reconciliation history
 - Audit logs
 - Bulk exports (CSV/PDF)
-- Scheduled reconciliation jobs
 - User roles and permissions
 - Cached AI explanations
 - Advanced analytics dashboard
