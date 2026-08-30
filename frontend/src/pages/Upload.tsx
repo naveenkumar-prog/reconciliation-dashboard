@@ -87,7 +87,7 @@ export default function Upload() {
       setTimeout(() => {
         navigate("/dashboard");
       }, 500);
-    } catch (err) {
+    } catch (err:any) {
       console.error(err);
 
       setError(
